@@ -1,0 +1,26 @@
+{
+  "name": "core.inspect",
+  "version": "1.0.0",
+  "description": "Displays a human-readable representation of built-in and custom objects",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Folktale/core.inspect"
+  },
+  "author": "Quildreen Motta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Folktale/core.inspect/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^6.1.0",
+    "ink-docstrap": "git://github.com/robotlolita/docstrap",
+    "jsdoc": "^3.3.0-alpha5",
+    "hifive-spec": "^0.2.2",
+    "hifive": "^0.4.0",
+    "uglify-js": "^2.4.15",
+    "alright": "^1.1.0",
+    "sweet.js": "^0.7.1"
+  }
+}
