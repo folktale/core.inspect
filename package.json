@@ -1,6 +1,6 @@
 {
   "name": "core.inspect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Displays a human-readable representation of built-in and custom objects",
   "main": "./index.js",
   "repository": {

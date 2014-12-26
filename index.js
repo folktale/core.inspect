@@ -35,8 +35,8 @@
  * @summary Any → Boolean
  */
 function isCustom(a) {
-  var repr = a && a.toString()
-  return a && !Array.isArray(a) && repr !== '[object Object]';
+  var repr = a.toString()
+  return !Array.isArray(a) && repr !== '[object Object]';
 }
 
 /**
