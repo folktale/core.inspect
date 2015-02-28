@@ -114,5 +114,5 @@ Released under the [MIT licence](https://github.com/Folktale/core.inspect/blob/m
 [es5-shim]: https://github.com/kriskowal/es5-shim
 [docs]: http://Folktale.github.io/core.inspect
 <!-- [release: https://github.com/Folktale/core.inspect/releases/download/v$VERSION/core.inspect-$VERSION.tar.gz] -->
-[release]: https://github.com/Folktale/core.inspect/releases/download/v1.0.0/core.inspect-1.0.0.tar.gz
+[release]: https://github.com/Folktale/core.inspect/releases/download/v1.0.3/core.inspect-1.0.3.tar.gz
 <!-- [/release] -->
